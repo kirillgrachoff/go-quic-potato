@@ -1,0 +1,46 @@
+{
+  "nearest": [
+    {
+      "id": 0,
+      "name": "KFC",
+      "deliveryTime": "12 min",
+      "image": "https://play-lh.googleusercontent.com/s7slUGiae9bq7XuYur0GWd_qDp_UXgo_5BIpzOT_BvKGg17TYG5QDr3ckqPcpq20jVU"
+    },
+    {
+      "id": 1,
+      "name": "McDonald",
+      "deliveryTime": "10 min",
+      "image": "https://pbs.twimg.com/profile_images/1579916871654117376/Dxd2l1sN_400x400.png"
+    },
+    {
+      "id": 2,
+      "name": "Burger King",
+      "deliveryTime": "15 min",
+      "image": "https://img.wongnai.com/p/1920x0/2019/02/26/cebf62f2742e4756a42b6b505070d6fe.jpg"
+    }
+  ],
+  "popular": [
+    {
+      "id": 3,
+      "name": "Stars Coffee",
+      "deliveryTime": "20 min",
+      "image": "https://static.tildacdn.com/tild6532-3164-4062-b261-613433386237/Stars.svg"
+    },
+    {
+      "id": 1,
+      "name": "Burger Heroes",
+      "deliveryTime": "25 min",
+      "image": "https://www.rusfranch.ru/u/www/images/catalog/logo_image_nwna9cyklpaicbxlpzm2c7pvqbck0mgfa.png"
+    },
+    {
+      "id": 2,
+      "name": "Вкусно и точка",
+      "deliveryTime": "10 min",
+      "image": "https://play-lh.googleusercontent.com/qXayVb-wdTdSV6VmK9pRPIkzRvAw2y2Y2R4uaYzjvZ2ICkcrEMCS8d-qMPrHSmiXTQ"
+    }
+  ],
+  "commercial": {
+    "picture": "https://img.freepik.com/premium-vector/weekend-big-sale-promotion-banner-design-template-last-chance-online-shopping-with-clearance-website-purchase-order-commercial-special-offer-vector-illustration_419341-628.jpg?w=2000",
+    "url": "https://google.com/"
+  }
+}
